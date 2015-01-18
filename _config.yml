@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Our Wedding
 locale:           en_US
-url:              http://localhost:4000
+url:              http://www.aaronblythewedding.com
 
 
 # Jekyll configuration
@@ -26,9 +26,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
+  name: Aaron van Meerten / Blythe Bergoon
+  avatar: bettersmiles.png
+  bio: "We're getting married!"
   email: 
   disqus-shortname: 
   twitter: #username
