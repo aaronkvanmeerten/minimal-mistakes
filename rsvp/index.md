@@ -10,4 +10,4 @@ image:
   creditlink: http://www.umlauf.org/
 ---
 
-<iframe src="https://docs.google.com/forms/d/1KZcUOz0tTzFzMdBnrohOdl7lt66cSpY1-dsmMdJkKh4/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/1KZcUOz0tTzFzMdBnrohOdl7lt66cSpY1-dsmMdJkKh4/viewform?embedded=true" width="740" height="590" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
